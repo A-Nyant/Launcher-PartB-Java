@@ -3,7 +3,7 @@ Here is a summary of the project.
 
 This was part one of a two part project. For part A, we worked alone. For part B, we worked with a partner.
 
-For version b, we had some instructions
+For version b, we had some instructions.
 
 We had a lot of class. I will break down what each class does.
 
